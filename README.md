@@ -1,11 +1,3 @@
-My Special DSA Notes: https://yournishaant.rpy.club/course/APlFbgQQfN
-<br>
-50 tricks to identify DSA Patterns Link: https://drive.google.com/drive/folders/1Da_v5uHIvBscWcRRgMsYGq-hJ00dQL9Y
-<br>
-2000 Top Companies HR Email ID: https://drive.google.com/drive/folders/1hJlxWGMr1UfV9UH84d_HjFP7InTMpPII
-<br>
-Internship Calender: https://aicteinternship.in/off-campus-internship-calendar-2025/
-
 | Company Name        | DSA Problem Link                                                                                                                                       | Tricks for Solving Patterns                          |
 |---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Google              | [Google DSA Problems](https://drive.google.com/drive/folders/1NlbJI1MAfb4UfL5h5AoaeO6-UlA3hF22)                                                         | Focus on backtracking and dynamic programming.       |
